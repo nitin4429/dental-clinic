@@ -24,7 +24,7 @@ const Footer = () => {
         
         {/* Socials */}
         <div className="w-full md:w-1/4">
-          <h3 className="text-lg font-semibold text-white border-b-2 border-blue-400 pb-2 mb-4">
+          <h3 className="text-lg font-semibold text-white pb-2 mb-4">
             Socials
           </h3>
           <ul className="space-y-2">
@@ -37,7 +37,7 @@ const Footer = () => {
 
         {/* Dental Clinic */}
         <div className="w-full md:w-1/4">
-          <h3 className="text-lg font-semibold text-white border-b-2 border-blue-400 pb-2 mb-4">
+          <h3 className="text-lg font-semibold text-white  pb-2 mb-4">
             Dental Clinic
           </h3>
           <ul className="space-y-2">
@@ -50,7 +50,7 @@ const Footer = () => {
 
         {/* About Us */}
         <div className="w-full md:w-1/4">
-          <h3 className="text-lg font-semibold text-white border-b-2 border-blue-400 pb-2 mb-4">
+          <h3 className="text-lg font-semibold text-white  pb-2 mb-4">
             About Us
           </h3>
           <ul className="space-y-2">
@@ -63,7 +63,7 @@ const Footer = () => {
 
         {/* Contact */}
         <div className="w-full md:w-1/4">
-          <h3 className="text-lg font-semibold text-white border-b-2 border-blue-400 pb-2 mb-4">
+          <h3 className="text-lg font-semibold text-white pb-2 mb-4">
             Contact
           </h3>
           <p>Brooklyn, NY 10036, United States</p>
@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
 
       </div>
-      <div className="w-full  text-white border-t-2 flex justify-center text-[20px] items-center pt-3 h-auto mt-4">
+      <div className="w-full  text-white border-t-2 flex justify-center text-[18px] md:text-[20px] items-center pt-3 h-auto mt-4">
         Copyright ©2025 all rights reserved
       </div>
     </footer>
